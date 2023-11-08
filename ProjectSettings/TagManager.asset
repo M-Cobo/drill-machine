@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  - Obstacle
+  - Checkpoint
+  - Car
+  - RespawnZone
+  - SlowCar
+  - BonusBox
+  - btnRemapInput
+  - btnNavigationInputMenu
+  - btn_Pause
+  - animation
+  - ParticleSys
+  - CarCamera
+  - ParticleSystem
+  - TriggerAI
+  - TriggerStart
+  - CameraMainMenu
+  - RoadSides_SP
+  - DRoadSides_SP
+  - Lake_SP
+  - Driller
+  - Rock
+  - SideWall
+  - Health
+  - Collectables_SP
+  - TNT
+  - RollingBall
+  - Dynamic
+  - FinishLine
+  - Timeline_SP
+  - Water_SP
+  - CarFloatings
+  - CarWaterPipe
+  - AuraCharge_SP
+  - AuraCharge
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - contrePoids
+  - MenuCam1
+  - MenuCam2
+  - MenuCam3
+  - MenuCam4
+  - CarCollisionBox
+  - CarObjectsInteractions
+  - CarObstacle
+  - CarWall
+  - Road
+  - Driller
+  - Rock
+  - SideWall
+  - Car
+  - ProceduralChunk
+  - Health
+  - Collectables_SP
+  - TNT
+  - RollingBall
+  - Wall
+  - CarFloatings
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
